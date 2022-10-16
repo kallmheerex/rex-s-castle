@@ -1,0 +1,136 @@
+body{
+  color: #40514e;
+  margin: 0px;
+  text-align: center;
+  font-family: 'lora', sans-serif;
+}
+.rexanimation{
+  padding-top: 20px;
+}
+h1{
+  font-size: 562.5%;
+  color: #E1FFEE;
+  font-family: 'Rock Salt', cursive;
+  margin: 50px auto 0 auto;
+  line-height: 2;
+
+}
+.firsth2{
+    color: #E1FFEE;
+  font-size: 2.5rem;
+}
+h2{
+    font-size: 2.5rem;
+    font-weight: normal;
+    color: #D7C0AE;
+    padding-bottom: 10px;
+}
+h3{
+  color: #D7C0AE;
+}
+a{
+  color: #D7C0AE;
+
+  text-decoration: none;
+  font-style: italic;
+}
+a:hover{
+  color: #eaf6f6;
+
+}
+hr{
+  border-style: dotted;
+  border-width: 5px;
+  border-bottom: none;
+  width: 5%;
+  color: #DFD3C3;
+  margin: 30px auto auto auto;
+
+}
+
+.topcontainer{
+  padding-top: 100px;
+  background-color: #D8D8D8;
+  margin-top: 0;
+  margin-left: 0;
+  margin-right: 0;
+}
+
+
+.rexanimation {
+margin: 100px 0;
+
+}
+.intro{
+  width: 30%;
+  margin: auto auto auto auto;
+}
+.bottomcontainer{
+
+
+}
+#castleimage{
+  height: 500px;
+  width:50%;
+
+}
+.clouds{
+  position: relative;
+  top: 15px;
+  left: 250px;
+  height: 50px;
+  width: 150px;
+
+}
+.bottomclouds{
+  position: absolute;
+  top: 30px;
+  left: 100px;
+  height: 50px;
+  width: 150px;
+  padding-top: 100px;
+}
+
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.icon1{
+  width: 25%;
+  float: left;
+  padding-right: 30px;
+}
+.icon2{
+  width: 25%;
+  float: right;
+  padding-left: 30px;
+}
+.bottom-container{
+background-color: brown;
+margin: 0;
+height: 100px;
+padding: 50px 0 50px;
+}
+.button{
+  color: #665A48;
+  background-color: white;
+  border: none;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  cursor: pointer;
+  margin-bottom: 30px;
+  border-radius: 8px;
+  border: 4px solid #EDE4E0;
+  transition-duration: 0.4s;
+}
+.button:hover{
+  background-color: #9F8772;
+}
+.copy-write{
+  color:  #D7C0AE;
+}
